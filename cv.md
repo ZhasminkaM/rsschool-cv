@@ -6,7 +6,7 @@
 
 **Phone:** +375 44 724-66-27
 
-**Email:** jassmina_121@mail.ru
+**Email:** zhasya.m@mail.ru
 
 **GitHub:** ZhasminkaM
 
