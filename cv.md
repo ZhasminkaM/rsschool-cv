@@ -25,6 +25,7 @@ I am studying and looking for an opportunity to gain experience in programming.
 * SQL
 * Exel
 * databases
+* VBA
 
 ## Code Example 
 
