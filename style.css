@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/*------------------------Left Block--------------------------------------*/
+
+.leftblock {
+	background-color: rgb(0, 0, 0);
+	float: left;
+	width: 30%;
+	text-align: center;
+	height: 100%;
+	color: rgb(255, 255, 255);
+}
+.person {
+	width: 100%;
+}
+
+
+/*-------------------------Right Block------------------------------------*/
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+    width: 70%;
+}
+.rightblock {
+	float: left;
+    width: 50%;
+    background-color: rgb(0, 0, 0, 0.9);
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+    border-left: 2px solid white;
+}
+
+#logo {
+	background-color: rgb(255, 255, 255);
+	padding: 5px;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+footer {
+	text-align: center;
+}
+
+a {
+	color: rgb(255, 255, 255);
+}
