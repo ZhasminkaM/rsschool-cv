@@ -1,1 +1,1 @@
-[Резюме](https://ZhasminkaM.github.io/rsschool-cv/cv)
+[Резюме](https://ZhasminkaM.github.io/rsschool-cv-html/cv)
